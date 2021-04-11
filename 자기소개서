@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>자기소개서</title>
+  <link rel="stylesheet" href="mystyle.css">
+  <style>
+    h2:hover{color: salmon;}
+    h2:active{color: rgb(74, 88, 129);}
+  </style>
+</head>
+<body>
+  <img src="800x0.jpg" alt="배경" width="480" height="360">
+  <h2 id="home">메카트로닉스 공학과</h2>
+  <b><h2>41615003 강명찬
+    <h2>자기소개서</h2>
+  </h2>
+    <br>
+    <a href="#alpha">첫번째 문단</a><br>
+  <a href="#beta">두번째 문단</a><br>
+  <a href="#gamma">세번째 문단</a><br>
+  <hr>
+  <h2 id="alpha">첫번째 문단-취미</h2>
+  <p>저의 취미는 노래듣기와 게임 스포츠 드라이브하기 등등 있습니다 </p>
+  <p>스포츠 같은 경우는 코로나가 발생된 이후로는 할수가 없게되었습니다.</p>
+  <p>듣는 노래같은 경우 트로트 가수가 아닌 인디음악 가수인 정동원 이라는 가수의 노래를 좋아합니다.</p>
+  <p>자주 듣는 곡 은 "정동원 - 더 사랑한 사람들을 위해" 라는 곡을 주로 듣습니다.</p>
+  <a href="#home">위로</a><br><br>
+  <h2 a id="beta">두번째 문단-특기</h2>
+  <p>특기로는 대학생이 되고난 후로 크레오 작업을 잘 합니다.</p>
+  <p>그리고 크레오 작업을 하는것에 대해 즐겨 하고 흥미가 생겨서</p>
+  <p>열심히 하게되니 잘하게 되었습니다.</p>
+  <a href="#home">위로</a><br><br>
+  <h2 a id="gamma">세번째 문단-음식</h2>
+  <p>제가 좋아하는 음식에는 거의 모든음식을 가리지않고 잘 먹습니다.</p>
+<p>예를 들자면</p>
+  <ul type="circle">
+    <li>라면</li>
+    <li>제육볶음</li>
+    <li>소고기</li>
+  </ul>
+  <p>등등 3가지만 간추려 보왔습니다.</p>
+  <p>이상으로 저의 소개를 마치겠습니다.</p>
+  <p>감사합니다.</p>
+  <a href="#home">위로</a>
+</body>
+</html>
